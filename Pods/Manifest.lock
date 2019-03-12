@@ -1,0 +1,16 @@
+PODS:
+  - StickerView (1.0)
+
+DEPENDENCIES:
+  - StickerView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - StickerView
+
+SPEC CHECKSUMS:
+  StickerView: c486fbc722bddaff4f521afd9028ea4dc3e25a62
+
+PODFILE CHECKSUM: dbb5059efb2ec9ae111669c461dca259e9dd9105
+
+COCOAPODS: 1.6.0.rc.2
