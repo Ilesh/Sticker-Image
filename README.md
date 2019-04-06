@@ -158,6 +158,12 @@ we need to add permission first in the `info.plist` file.
 - If you **have a feature request**, open an issue.
 - If you **want to contribute**, submit a pull request.
 
+## 👨🏻‍💻 Author
+
+* Ilesh Panchal
+
+<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/dD9nr61qx"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy me a coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"><span style="margin-left:5px"></span></a>
+
 ## License
 
 Sticker-Image is released under the MIT license.
