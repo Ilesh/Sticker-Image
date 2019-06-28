@@ -1,4 +1,5 @@
 # Sticker-Image
+
 <p align="center">
 <img src="https://img.shields.io/badge/swift-4.0%2B-brightgreen.svg" alt="Swift 4.0"/>
 <img src="https://img.shields.io/badge/platform-iOS-brightgreen.svg" alt="Platform: iOS"/>
@@ -8,7 +9,9 @@
 </a>
 </p>
 
-Sticker-Image is the example project of the adding stickr on `UIImageview` and `UIView`. It is very easy to implement in the existing project and new project. 
+Sticker-Image is the demo-example of how to use sticekrs. It help you to adding stickr on `UIImageview` and `UIView`. It is very easy to implement in the existing project OR new project. Please find below the step of implemenation.
+
+##### Also note, I am assumes you are comfortable with the basics of storyboards and view controllers.
 
 ![Adding sticker](https://i.imgflip.com/2vwqox.gif)
 ![Save and sharing](https://i.imgflip.com/2vwqnc.gif)
@@ -160,7 +163,7 @@ we need to add permission first in the `info.plist` file.
 
 ## 👨🏻‍💻 Author
 
-* Ilesh Panchal
+* **[Ilesh Panchal](https://twitter.com/ilesh_panchal)**
 
 <a href="https://www.buymeacoffee.com/dD9nr61qx" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
