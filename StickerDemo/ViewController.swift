@@ -79,7 +79,7 @@ class ViewController: UIViewController {
     
     //MARK: - Add image to Library
     @objc func image(_ image: UIImage, didFinishSavingWithError error: Error?, contextInfo: UnsafeRawPointer) {
-        if let error = error {
+        if error != nil {
             // we got back an error!
             UIAlertController.showAlertWithOkButton(self, aStrMessage: "Save error", completion: nil)
         } else {
